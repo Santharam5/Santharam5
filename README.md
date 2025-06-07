@@ -16,13 +16,10 @@
 - 📷 [Instagram](https://www.instagram.com/orewa_santha/)
 
 
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santharam5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santharam5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![santha GitHub stats](https://github-readme-stats.vercel.app/api?username=santharam5&show_icons=true&theme=merko)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santharam5&layout=pie)](https://github.com/santharam5/github-readme-stats)</br>
 
 ###
 
