@@ -1,5 +1,5 @@
 ## Hi Im Santharam ✨
-**Aspiring Developer | B.Sc Computer Science Student | Future MCA Aspirant**
+**Aspiring Developer | B.Sc Computer Science Graduate | Future MCA Aspirant**
 
 🌱 I'm currently focused on building a strong foundation in **Programming** and **Data Structures**, while also exploring Web Development and real-time projects.
 
