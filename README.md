@@ -19,7 +19,7 @@
 ###
 
 ![santha GitHub stats](https://github-readme-stats.vercel.app/api?username=santharam5&show_icons=true&theme=merko)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santharam5&layout=pie)](https://github.com/santharam5/github-readme-stats)</br>
+
 
 ###
 
