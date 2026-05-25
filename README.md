@@ -1,5 +1,5 @@
 ## Hi Im Santharam ✨
-**Aspiring Developer | B.Sc Computer Science Graduate | Future MCA Aspirant**
+**Full Stack Developer | SpringBoot | AngularJs |  MCA Student | @TCS**
 
 🌱 I'm currently focused on building a strong foundation in **Programming** and **Data Structures**, while also exploring Web Development and real-time projects.
 
