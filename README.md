@@ -16,10 +16,6 @@
 - 📷 [Instagram](https://www.instagram.com/orewa_santha/)
 
 
-###
-
-![santha GitHub stats](https://github-readme-stats.vercel.app/api?username=santharam5&show_icons=true&theme=merko)</br>
-
 
 ###
 
