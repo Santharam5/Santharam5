@@ -1,5 +1,5 @@
 ## Hi Im Santharam ✨
-**Full Stack Developer | SpringBoot | AngularJs |  MCA Student | @TCS**
+**Full Stack Developer | SpringBoot | AngularTs |  MCA Student | @TCS**
 
 🌱 I'm currently focused on building a strong foundation in **Programming** and **Data Structures**, while also exploring Web Development and real-time projects.
 
